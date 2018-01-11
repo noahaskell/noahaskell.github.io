@@ -1,6 +1,6 @@
 # noahmotion.github.io
 
-## This will probably mostly just be a place to keep notebooks. So:
+### This will probably mostly just be a place to keep notebooks. So:
 
 ### Assorted topics
 
@@ -10,4 +10,4 @@
 
 ### Programming for CSD notebooks
 
-[Week 1](https://github.com/noahmotion/noahmotion.github.io/blob/master/Programming%20for%20CSD%20w01.html)
+[Week 1](https://noahmotion.github.io/Programming%20for%20CSD%20w01.html)
