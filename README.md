@@ -17,3 +17,5 @@
 [Week 2](https://noahmotion.github.io/Programming%20for%20CSD%20w02.html)
 
 [Week 3](https://noahmotion.github.io/Programming%20for%20CSD%20w03.html)
+
+[Week 4](https://noahmotion.github.io/Programming%20for%20CSD%20w04.html)
