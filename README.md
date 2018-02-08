@@ -12,10 +12,12 @@
 
 ### Programming for CSD notebooks
 
-[Week 1](https://noahmotion.github.io/Programming%20for%20CSD%20w01.html)
+[Week 1: Variables, Operators, and Intro to Functions](https://noahmotion.github.io/Programming%20for%20CSD%20w01.html)
 
-[Week 2](https://noahmotion.github.io/Programming%20for%20CSD%20w02.html)
+[Week 2: Modules, Packages, and Intro to Plotting](https://noahmotion.github.io/Programming%20for%20CSD%20w02.html)
 
-[Week 3](https://noahmotion.github.io/Programming%20for%20CSD%20w03.html)
+[Week 3: Control Flow](https://noahmotion.github.io/Programming%20for%20CSD%20w03.html)
 
-[Week 4](https://noahmotion.github.io/Programming%20for%20CSD%20w04.html)
+[Week 4: Intro to Digital Signal Processing](https://noahmotion.github.io/Programming%20for%20CSD%20w04.html)
+
+[Week 5: FIR and IIR Filters](https://noahmotion.github.io/Programming%20for%20CSD%20w05.html)
