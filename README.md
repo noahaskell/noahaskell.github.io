@@ -21,3 +21,9 @@
 [Week 4: Intro to Digital Signal Processing](https://noahmotion.github.io/Programming%20for%20CSD%20w04.html)
 
 [Week 5: FIR and IIR Filters](https://noahmotion.github.io/Programming%20for%20CSD%20w05.html)
+
+[Weeks 6 & 7: Noise Vocoded Sentences](https://noahmotion.github.io/Programming%20for%20CSD%20w07.html)
+
+[Week 8: Pandas](https://noahmotion.github.io/Programming%20for%20CSD%20w08.html)
+
+[Week 9: Data Visualization](https://noahmotion.github.io/Programming%20for%20CSD%20w09.html)
