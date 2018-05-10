@@ -27,3 +27,13 @@
 [Week 8: Pandas](https://noahmotion.github.io/Programming%20for%20CSD%20w08.html)
 
 [Week 9: Data Visualization](https://noahmotion.github.io/Programming%20for%20CSD%20w09.html)
+
+[Week 10: Linear Models, Generalized Linear Models](https://noahmotion.github.io/Programming%20for%20CSD%20w10.html)
+
+[Week 11: More (Generalized) Linear Models](https://noahmotion.github.io/Programming%20for%20CSD%20w11.html)
+
+[Week 12: Time Series](https://noahmotion.github.io/Programming%20for%20CSD%20w12.html)
+
+[Week 13: Intro to Bayesian Data Analysis](https://noahmotion.github.io/Programming%20for%20CSD%20w13.html)
+
+[Week 14: More Bayesian Data Analysis](https://noahmotion.github.io/Programming%20for%20CSD%20w14.html)
