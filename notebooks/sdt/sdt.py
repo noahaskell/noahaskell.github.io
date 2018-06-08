@@ -12,8 +12,9 @@ fig_dict = {'colors':{'N':blue, 'S':red, 'c':gray}, 'response_labs':{'N':'"No"',
             'xl':4, 'xtick_labs':[r'$\mu_N$','c',r'$\mu_S$'], 'figsize':(17,5),
             'shade':['h','f'], 'legend':['Noise','Signal + Noise','Response Criterion']}
 
-def plot_simple_model(pdf=norm.pdf, mu=[0,1], sd=[1,1], c=.5, fig_dict=fig_dict):
-  fig, ax = plt.subplots(1, 1, figsize=fig_dict['figsize'])
+def plot_simple_model(pdf=norm.pdf, mu=[0,1], sd=[1,1], c=.5, fig_dict=fig_dict, ax=None):
+  if ax is None:
+    fig, ax = plt.subplots(1, 1, figsize=fig_dict['figsize'])
   mu_N = mu[0]
   mu_S = mu[1]
   sd_N = sd[0]
