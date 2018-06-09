@@ -4,6 +4,8 @@
 
 ### Assorted topics
 
+[Signal Detection Theory, Part 1](https://noahmotion.github.io/Signal Detection Theory, Part 1.html)
+
 [Here's a Jupyter notebook about odds ratios that I made.](https://noahmotion.github.io/odds_ratios.html)
 
 ### Programming for CSD notebooks
